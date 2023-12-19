@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#main{
+.container{
 	background-color:#d2d2d3;
 	border:5px solid black;
 	width:400px;
@@ -10,7 +10,7 @@
 	padding:10%;
 	
 }
-#main>.green{
+.container>.green{
 	
 	background-color:green;
 	border-radius:50%;
@@ -20,7 +20,7 @@
 	
 	
 }
-#main>.yellow{
+.container>.yellow{
 	
 	background-color:yellow;
 	border-radius:50%;
@@ -29,7 +29,7 @@
 	height:100px;
 	
 }
-#main>.red{
+.container>.red{
 	
 	background-color:red;
 	border-radius:50%;
